@@ -1,0 +1,21 @@
+{
+  "name": "com.cowboybob.pandemonium-dialogue-system",
+  "version": "1.0.0",
+  "displayName": "Pandemonium Dialogue System",
+  "description": "Dialogue system mainly created by Pandemonium Games. Used to add Dialogue to Npc's and Players. \nDetects on collision and pops up a dialogue window.\nTypes letters one by one with a sound. \nHas the ability to skip through dialogue sections or exit \nearly. \nCan take in the characters sprite to show in dialogue\nwindow.\nText can be adjusted by color and font.\nDelay between letters easily adjusted too.",
+  "unity": "2019.1",
+  "documentationUrl": "https://youtu.be/8eJ_gxkYsyY",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "Dialogue",
+    "Npc",
+    "TextMeshPro",
+    "Pandemonium"
+  ],
+  "author": {
+    "name": "CowboyBob",
+    "url": "https://github.com/cowboybob-ttv"
+  }
+}
