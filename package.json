@@ -1,4 +1,5 @@
 {
+  "hideineditor": false,
   "name": "com.cowboybob.pandemonium-dialogue-system",
   "version": "1.0.0",
   "displayName": "Pandemonium Dialogue System",
