@@ -66,7 +66,8 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-To use this example you will need to install TextMeshPro.
+To use this example you will need to install TextMeshPro in your Unity Project.
+Unity Version 2019.1+.
 
 ### Installation
 
