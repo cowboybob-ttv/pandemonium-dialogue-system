@@ -18,5 +18,12 @@
   "author": {
     "name": "CowboyBob",
     "url": "https://github.com/cowboybob-ttv"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Sample Dialogue Scene",
+      "description": "Sample scene to show how the dialogue system works",
+      "path": "Samples"
+    }
+  ]
 }
