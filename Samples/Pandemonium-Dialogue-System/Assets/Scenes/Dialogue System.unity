@@ -386,7 +386,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 507280768}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 09d3be7a14ed56d4794c2badcc265c9c, type: 3}
+  m_Script: {fileID: 11500000, guid: e284f10cefb0a894e985d42b34bfc56f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   dialogue: {fileID: 913190764}
@@ -627,7 +627,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 866966050}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9abfdd0b34f9a9148b5ba0d776c8940a, type: 3}
+  m_Script: {fileID: 11500000, guid: 76de75669cf950940af266da7cd66315, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
@@ -640,8 +640,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 913190765}
-  - component: {fileID: 913190769}
   - component: {fileID: 913190768}
+  - component: {fileID: 913190769}
   - component: {fileID: 913190767}
   - component: {fileID: 913190766}
   m_Layer: 5
@@ -736,7 +736,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 913190764}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed98e7abeb2d8c04692dbf77744aab0c, type: 3}
+  m_Script: {fileID: 11500000, guid: 8642742349e1b2549a83e55d1d6d351f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &974754845
@@ -885,7 +885,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 974754845}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 43cbf9e31d30a4c489147a6ab215ae9f, type: 3}
+  m_Script: {fileID: 11500000, guid: 672552beda1c4644faa59b2068032d58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   input: Hello There! This is just a test dialogue.
@@ -1042,7 +1042,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 997956272}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 43cbf9e31d30a4c489147a6ab215ae9f, type: 3}
+  m_Script: {fileID: 11500000, guid: 672552beda1c4644faa59b2068032d58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   input: Hello There I am an Npc! Hope you like the dialogue system.
@@ -1342,7 +1342,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1692045792}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6000fb37aaa72384aaf357187f11b74a, type: 3}
+  m_Script: {fileID: 11500000, guid: c9eb51023ec600b4da203fc111b569e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1693299424
@@ -1659,7 +1659,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2019509225}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 43cbf9e31d30a4c489147a6ab215ae9f, type: 3}
+  m_Script: {fileID: 11500000, guid: 672552beda1c4644faa59b2068032d58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   input: We sure have talked a lot already.
