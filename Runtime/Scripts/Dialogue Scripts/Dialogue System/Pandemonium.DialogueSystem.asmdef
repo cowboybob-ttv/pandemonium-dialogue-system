@@ -1,3 +1,19 @@
 {
-	"name": "Pandemonium.DialogueSystem"
+    "name": "Pandemonium.DialogueSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:97dd14c377d44e2459cfa06fecdad4fe",
+        "GUID:5e2543d0a8180bf40a824ee889da9467",
+        "GUID:e40b0eed7336d6f499c6f8cdffb72726"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

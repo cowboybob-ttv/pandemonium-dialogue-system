@@ -16,7 +16,7 @@ namespace Pandemonium.DialogueSystem
             for (int i = 0; i < input.Length; i++)
             {
                 textHolder.text += input[i];
-                Sound.SoundManager.instance.PlaySound(sound);
+                Pandemonium.Sound.SoundManager.instance.PlaySound(sound);
                 yield return new WaitForSeconds(delay);
             }
             

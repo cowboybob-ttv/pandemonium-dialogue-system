@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Sound
+namespace Pandemonium.Sound
 {
     public class SoundManager : MonoBehaviour
     {
