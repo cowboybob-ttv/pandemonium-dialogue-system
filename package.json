@@ -22,7 +22,7 @@
     {
       "displayName": "Sample Dialogue Scene",
       "description": "Sample scene to show how the dialogue system works",
-      "path": "Samples/Pandemonium-Dialogue-System"
+      "path": "Samples"
     }
   ]
 }
