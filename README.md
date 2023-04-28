@@ -14,16 +14,9 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/cowboybob-ttv/pandemonium-dialogue-system">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">project_title</h3>
+<h3 align="center">Pandemonium Dialogue System</h3>
 
   <p align="center">
-    project_description
     <br />
     <a href="https://github.com/cowboybob-ttv/pandemonium-dialogue-system"><strong>Explore the docs »</strong></a>
     <br />
@@ -35,8 +28,6 @@
     <a href="https://github.com/cowboybob-ttv/pandemonium-dialogue-system/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -68,8 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Dialogue system mainly created by Pandemonium Games that's been modified to work with TextMeshPro in Unity.
-
+Dialogue system mainly created by <a href=https://www.youtube.com/@PandemoniumGameDev>Pandemonium Games</a> that's been modified to work with TextMeshPro in Unity. The <a href=https://www.youtube.com/watch?v=8eJ_gxkYsyY>original youtube video</a> has lots of good information if you'd like extra explanation on how it works.
 
 
 ### Built With
