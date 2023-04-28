@@ -151,4 +151,4 @@ Project Link: [https://github.com/cowboybob-ttv/pandemonium-dialogue-system](htt
 [issues-shield]: https://img.shields.io/github/issues/cowboybob-ttv/pandemonium-dialogue-system.svg?style=for-the-badge
 [issues-url]: https://github.com/cowboybob-ttv/pandemonium-dialogue-system/issues
 [license-shield]: https://img.shields.io/github/license/cowboybob-ttv/pandemonium-dialogue-system.svg?style=for-the-badge
-[license-url]: https://github.com/cowboybob-ttv/pandemonium-dialogue-system/blob/main/LICENSE
+[license-url]: https://github.com/cowboybob-ttv/pandemonium-dialogue-system/blob/main/LICENSE.txt
