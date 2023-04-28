@@ -34,10 +34,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-the-project">About The Project</a>      
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -60,14 +57,6 @@
 ## About The Project
 
 Dialogue system mainly created by <a href=https://www.youtube.com/@PandemoniumGameDev>Pandemonium Games</a> that's been modified to work with TextMeshPro in Unity. The original youtube video has lots of good information: https://youtu.be/8eJ_gxkYsyY 
-
-
-### Built With
-
-* [![Unity][Unity.Com]][Unity]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -145,9 +134,7 @@ Project Link: [https://github.com/cowboybob-ttv/pandemonium-dialogue-system](htt
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Pandemonium](https://www.youtube.com/@PandemoniumGameDev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
