@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Dialogue system mainly created by <a href=https://www.youtube.com/@PandemoniumGameDev>Pandemonium Games</a> that's been modified to work with TextMeshPro in Unity. The <a href=https://www.youtube.com/watch?v=8eJ_gxkYsyY>original youtube video</a> has lots of good information if you'd like extra explanation on how it works.
+Dialogue system mainly created by <a href=https://www.youtube.com/@PandemoniumGameDev>Pandemonium Games</a> that's been modified to work with TextMeshPro in Unity. The original youtube video has lots of good information: https://youtu.be/8eJ_gxkYsyY 
 
 
 ### Built With
